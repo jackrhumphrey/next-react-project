@@ -1,0 +1,8 @@
+{
+  "forms": {
+    "signupForm": {
+      "name": "Sign-Up Form",
+      "actions": [{ "type": "email", "to": "jack.humphrey@xtra.co.nz" }]
+    }
+  }
+}
